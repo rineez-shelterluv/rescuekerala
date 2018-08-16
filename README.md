@@ -79,7 +79,7 @@ python3 manage.py collectstatic
 Run the server
 
 ```
-python3 manage.py runserver
+python3 manage.py runserver 0.0.0.0:8000
 ```
 Now open localhost:8000 in the browser
 
